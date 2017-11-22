@@ -52,4 +52,15 @@ p  {
 
 .card {
   margin:auto;
+  width: 400px;
+  padding: 40px 10px 0px 10px;
+}
+
+.container{
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+
+.social-links i.fa:hover{
+  color: #5c2677;
 }
